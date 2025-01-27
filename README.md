@@ -84,7 +84,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms) we remain at here 01/27/2025
 - [Interview Prep Books](#interview-prep-books)
 - [Don't Make My Mistakes](#dont-make-my-mistakes)
 - [What you Won't See Covered](#what-you-wont-see-covered)
