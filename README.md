@@ -85,16 +85,16 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms) we are here 01/27/2025
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [Interview Prep Books](#interview-prep-books) get one book from here c++ or python 01/28/2025
+- [Don't Make My Mistakes](#dont-make-my-mistakes) read them well and adapt to yourself 01/28/2025
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems)
+- [Coding Question Practice](#coding-question-practice) 
+- [Coding Problems](#coding-problems) there is some good resources for the interview problems 01/28/2025
 
 ### Topics of Study
 
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis) we are here 01/28/2025
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
