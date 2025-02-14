@@ -615,13 +615,13 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] is_empty()
         - [X] at(index) - returns the item at a given index, blows up if index out of bounds
         - [X] push(item)
-        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right we are here 02/13/2025
-        - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
-        - [ ] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [ ] resize(new_capacity) // private function
+        - [X] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right we are here 02/13/2025
+        - [X] prepend(item) - can use insert above at index 0
+        - [X] pop() - remove from end, return value
+        - [x] delete(index) - delete item at index, shifting all trailing elements left
+        - [X] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [X] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [ ] resize(new_capacity) // private function we are here 02/14/2025
             - when you reach capacity, resize to double the size
             - when popping an item, if the size is 1/4 of capacity, resize to half
     - [ ] Time
